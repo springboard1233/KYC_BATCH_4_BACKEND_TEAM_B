@@ -1,0 +1,6 @@
+Flask
+PyMongo
+pylessc
+pytesseract
+Pillow
+python-multipart
